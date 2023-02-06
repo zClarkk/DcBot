@@ -1,1 +1,1 @@
-# DcBot
+# Discord Bot for mini games
